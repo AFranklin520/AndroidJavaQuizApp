@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Franklin_P1</string>
+    <string name="toast_text">toastmsg</string>
+    <string name="trueText">&#128077;</string>
+    <string name="falseText">&#128078;</string>
+    <string name="prevText">&#9194;</string>
+    <string name="nextText">&#9193;</string>
+    <string name="title_text">Anthony\'s Quiz App.
+<br>You\'ll be asked a series of questions.</br>
+<br>Click thumbs up for true, thumbs down for false.
+Click QUIT to exit and see your score.</br></string>
+    <string name="rightSym"> &#9989;</string>
+    <string name="wrongSym"> &#10060;</string>
+    <string name="quit">Quit</string>
+    <string name="question1">int x[] = new int[]{10,20,30}; Is a valid array constructor in Java</string>
+    <string name="question2">All binary operators except for the assignment operators are evaluated from Left to Right</string>
+    <string name="question3">Constructor overloading is not possible in Java</string>
+    <string name="question4">Java programming is statically-typed,so you must declare variables before using them</string>
+    <string name="question5">Underscore characters \"_\" can appear anywhere between digits in a numerical literal</string>
+    <string name="question6">You must instantiate an interface before using it</string>
+    <string name="question7">The modifiers public and static cannot written in either order \"public static\" or \"static public\"</string>
+    <string name="question8">In the Java programming language we can store many different types of values in a single array</string>
+    <string name="question9">Consider the statement \"x = (a > b) ? a : b\"; then the value of x is 27, if a = 18 and b = 27</string>
+    <string name="question11">If I call \"this.super.toString()\", the <i>this</i> keyword overrides the super keyword and the child object\'s toString() is called</string>
+    <string name="question12">In Java Programming, we must make sure to use <i>nullptr assignment</i> and <i>delete</i> when we are finished with an item created on the heap</string>
+    <string name="question13">In an instance method or constructor, <i>this</i> refers to the current object</string>
+    <string name="question14">Java does not support overloaded constructors</string>
+    <string name="question15">In Java, we can use either \"public static\" or \"static public\"</string>
+    <string name="question16">A .class file contains plain text source code so other programmers can understand how the objects in a program work together</string>
+    <string name="question17">\"$\" and \"_\" may be used at the beginning of a variable name</string>
+    <string name="question18">All Classes in the Java language inherit from java.lang.Class</string>
+    <string name="question19">James Gosling was the inventor of Java</string>
+    <string name="question20">Java is both a language and a platform</string>
+</resources>
